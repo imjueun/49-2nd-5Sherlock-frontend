@@ -1,4 +1,4 @@
-# 49-2nd-5Sherlock-Frontend
+# 5Sherlock-Frontend
 
 ## 5SHERLOCK 프로젝트 Front-end/Back-end 소개
 
